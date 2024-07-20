@@ -6,13 +6,13 @@
 - [Data Sources](#Data-Sources).
 
 ### Table of contents 
-Data Sources 
-Installation
-Usage
-Project structure 
-Analysis 
-Results 
-Recoommendations
+-Data Sources 
+-Installation
+-Usage
+-Project structure 
+-Analysis 
+-Results 
+-Recoommendations
 
 
 
